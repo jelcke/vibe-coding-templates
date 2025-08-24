@@ -44,19 +44,19 @@ workflows:
 ## Available Workflow Templates
 
 ### Testing Workflows
-- **Test Suite**: [github-actions-test.yaml](https://github.com/chrishayuk/vibe-coding-templates/blob/main/python/templates/cicd/workflows/github-actions-test.yaml)
-- **Coverage**: [github-actions-coverage.yaml](https://github.com/chrishayuk/vibe-coding-templates/blob/main/python/templates/cicd/workflows/github-actions-coverage.yaml)
-- **Benchmarks**: [github-actions-benchmark.yaml](https://github.com/chrishayuk/vibe-coding-templates/blob/main/python/templates/cicd/workflows/github-actions-benchmark.yaml)
+- **Test Suite**: [github-actions-test.yaml](https://github.com/jelcke/vibe-coding-templates/blob/main/python/templates/cicd/workflows/github-actions-test.yaml)
+- **Coverage**: [github-actions-coverage.yaml](https://github.com/jelcke/vibe-coding-templates/blob/main/python/templates/cicd/workflows/github-actions-coverage.yaml)
+- **Benchmarks**: [github-actions-benchmark.yaml](https://github.com/jelcke/vibe-coding-templates/blob/main/python/templates/cicd/workflows/github-actions-benchmark.yaml)
 
 ### Quality Workflows
-- **Linting**: [github-actions-lint.yaml](https://github.com/chrishayuk/vibe-coding-templates/blob/main/python/templates/cicd/workflows/github-actions-lint.yaml)
-- **Security**: [github-actions-security.yaml](https://github.com/chrishayuk/vibe-coding-templates/blob/main/python/templates/cicd/workflows/github-actions-security.yaml)
-- **Dependencies**: [github-actions-deps.yaml](https://github.com/chrishayuk/vibe-coding-templates/blob/main/python/templates/cicd/workflows/github-actions-deps.yaml)
+- **Linting**: [github-actions-lint.yaml](https://github.com/jelcke/vibe-coding-templates/blob/main/python/templates/cicd/workflows/github-actions-lint.yaml)
+- **Security**: [github-actions-security.yaml](https://github.com/jelcke/vibe-coding-templates/blob/main/python/templates/cicd/workflows/github-actions-security.yaml)
+- **Dependencies**: [github-actions-deps.yaml](https://github.com/jelcke/vibe-coding-templates/blob/main/python/templates/cicd/workflows/github-actions-deps.yaml)
 
 ### Release Workflows
-- **PyPI Release**: [github-actions-release.yaml](https://github.com/chrishayuk/vibe-coding-templates/blob/main/python/templates/cicd/workflows/github-actions-release.yaml)
-- **GitHub Release**: [github-actions-gh-release.yaml](https://github.com/chrishayuk/vibe-coding-templates/blob/main/python/templates/cicd/workflows/github-actions-gh-release.yaml)
-- **Documentation**: [github-actions-docs.yaml](https://github.com/chrishayuk/vibe-coding-templates/blob/main/python/templates/cicd/workflows/github-actions-docs.yaml)
+- **PyPI Release**: [github-actions-release.yaml](https://github.com/jelcke/vibe-coding-templates/blob/main/python/templates/cicd/workflows/github-actions-release.yaml)
+- **GitHub Release**: [github-actions-gh-release.yaml](https://github.com/jelcke/vibe-coding-templates/blob/main/python/templates/cicd/workflows/github-actions-gh-release.yaml)
+- **Documentation**: [github-actions-docs.yaml](https://github.com/jelcke/vibe-coding-templates/blob/main/python/templates/cicd/workflows/github-actions-docs.yaml)
 
 ## Setting Up Workflows
 
@@ -204,10 +204,10 @@ permissions:
 
 ## Template Information
 
-- **Source**: [vibe-coding-templates](https://github.com/chrishayuk/vibe-coding-templates/blob/main/python/docs/cicd/GITHUB_ACTIONS.md)
+- **Source**: [vibe-coding-templates](https://github.com/jelcke/vibe-coding-templates/blob/main/python/docs/cicd/GITHUB_ACTIONS.md)
 - **Version**: 1.0.0
 - **Date**: 2025-08-19
-- **Author**: chrishayuk
+- **Author**: jelcke
 - **Template**: Generic Python Project
 
 ### Customization Notes

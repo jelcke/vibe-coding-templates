@@ -142,8 +142,8 @@ If you're building an AI agent that creates projects:
 
 ## 📬 Support
 
-- Issues: [GitHub Issues](https://github.com/chrishayuk/vibe-coding-templates/issues)
-- Discussions: [GitHub Discussions](https://github.com/chrishayuk/vibe-coding-templates/discussions)
+- Issues: [GitHub Issues](https://github.com/jelcke/vibe-coding-templates/issues)
+- Discussions: [GitHub Discussions](https://github.com/jelcke/vibe-coding-templates/discussions)
 
 ## 📄 License
 

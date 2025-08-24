@@ -207,10 +207,10 @@ uv run pytest --cov=src/<package_name> --cov-report=term-missing | grep -E "[0-9
 ## Coverage in CI/CD
 
 ### GitHub Actions
-See [github-actions-coverage.yaml](https://github.com/chrishayuk/vibe-coding-templates/blob/main/python/templates/cicd/workflows/github-actions-coverage.yaml) for a complete GitHub Actions workflow template with coverage reporting and Codecov integration.
+See [github-actions-coverage.yaml](https://github.com/jelcke/vibe-coding-templates/blob/main/python/templates/cicd/workflows/github-actions-coverage.yaml) for a complete GitHub Actions workflow template with coverage reporting and Codecov integration.
 
 ### Pre-commit Hooks
-See [pre-commit-coverage-hook.yaml](https://github.com/chrishayuk/vibe-coding-templates/blob/main/python/templates/cicd/hooks/pre-commit-coverage-hook.yaml) for pre-commit hook configurations that enforce coverage thresholds.
+See [pre-commit-coverage-hook.yaml](https://github.com/jelcke/vibe-coding-templates/blob/main/python/templates/cicd/hooks/pre-commit-coverage-hook.yaml) for pre-commit hook configurations that enforce coverage thresholds.
 
 Quick setup:
 ```bash
@@ -330,10 +330,10 @@ Or with dynamic coverage:
 
 ## Template Information
 
-- **Source**: [vibe-coding-templates](https://github.com/chrishayuk/vibe-coding-templates/blob/main/python/docs/testing/TEST_COVERAGE.md)
+- **Source**: [vibe-coding-templates](https://github.com/jelcke/vibe-coding-templates/blob/main/python/docs/testing/TEST_COVERAGE.md)
 - **Version**: 1.0.0
 - **Date**: 2025-08-19
-- **Author**: chrishayuk
+- **Author**: jelcke
 - **Template**: Generic Python Project
 
 ### Customization Notes

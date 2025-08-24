@@ -45,26 +45,26 @@ hooks:
 ## Available Hook Templates
 
 ### Code Quality
-- **Ruff**: [pre-commit-ruff-hook.yaml](https://github.com/chrishayuk/vibe-coding-templates/blob/main/python/templates/cicd/hooks/pre-commit-ruff-hook.yaml)
-- **Black**: [pre-commit-black-hook.yaml](https://github.com/chrishayuk/vibe-coding-templates/blob/main/python/templates/cicd/hooks/pre-commit-black-hook.yaml)
-- **isort**: [pre-commit-isort-hook.yaml](https://github.com/chrishayuk/vibe-coding-templates/blob/main/python/templates/cicd/hooks/pre-commit-isort-hook.yaml)
+- **Ruff**: [pre-commit-ruff-hook.yaml](https://github.com/jelcke/vibe-coding-templates/blob/main/python/templates/cicd/hooks/pre-commit-ruff-hook.yaml)
+- **Black**: [pre-commit-black-hook.yaml](https://github.com/jelcke/vibe-coding-templates/blob/main/python/templates/cicd/hooks/pre-commit-black-hook.yaml)
+- **isort**: [pre-commit-isort-hook.yaml](https://github.com/jelcke/vibe-coding-templates/blob/main/python/templates/cicd/hooks/pre-commit-isort-hook.yaml)
 
 ### Type Checking
-- **MyPy**: [pre-commit-mypy-hook.yaml](https://github.com/chrishayuk/vibe-coding-templates/blob/main/python/templates/cicd/hooks/pre-commit-mypy-hook.yaml)
-- **Pyright**: [pre-commit-pyright-hook.yaml](https://github.com/chrishayuk/vibe-coding-templates/blob/main/python/templates/cicd/hooks/pre-commit-pyright-hook.yaml)
+- **MyPy**: [pre-commit-mypy-hook.yaml](https://github.com/jelcke/vibe-coding-templates/blob/main/python/templates/cicd/hooks/pre-commit-mypy-hook.yaml)
+- **Pyright**: [pre-commit-pyright-hook.yaml](https://github.com/jelcke/vibe-coding-templates/blob/main/python/templates/cicd/hooks/pre-commit-pyright-hook.yaml)
 
 ### Testing
-- **Coverage**: [pre-commit-coverage-hook.yaml](https://github.com/chrishayuk/vibe-coding-templates/blob/main/python/templates/cicd/hooks/pre-commit-coverage-hook.yaml)
-- **Pytest**: [pre-commit-pytest-hook.yaml](https://github.com/chrishayuk/vibe-coding-templates/blob/main/python/templates/cicd/hooks/pre-commit-pytest-hook.yaml)
+- **Coverage**: [pre-commit-coverage-hook.yaml](https://github.com/jelcke/vibe-coding-templates/blob/main/python/templates/cicd/hooks/pre-commit-coverage-hook.yaml)
+- **Pytest**: [pre-commit-pytest-hook.yaml](https://github.com/jelcke/vibe-coding-templates/blob/main/python/templates/cicd/hooks/pre-commit-pytest-hook.yaml)
 
 ### Security
-- **Secrets**: [pre-commit-secrets-hook.yaml](https://github.com/chrishayuk/vibe-coding-templates/blob/main/python/templates/cicd/hooks/pre-commit-secrets-hook.yaml)
-- **Bandit**: [pre-commit-bandit-hook.yaml](https://github.com/chrishayuk/vibe-coding-templates/blob/main/python/templates/cicd/hooks/pre-commit-bandit-hook.yaml)
-- **Safety**: [pre-commit-safety-hook.yaml](https://github.com/chrishayuk/vibe-coding-templates/blob/main/python/templates/cicd/hooks/pre-commit-safety-hook.yaml)
+- **Secrets**: [pre-commit-secrets-hook.yaml](https://github.com/jelcke/vibe-coding-templates/blob/main/python/templates/cicd/hooks/pre-commit-secrets-hook.yaml)
+- **Bandit**: [pre-commit-bandit-hook.yaml](https://github.com/jelcke/vibe-coding-templates/blob/main/python/templates/cicd/hooks/pre-commit-bandit-hook.yaml)
+- **Safety**: [pre-commit-safety-hook.yaml](https://github.com/jelcke/vibe-coding-templates/blob/main/python/templates/cicd/hooks/pre-commit-safety-hook.yaml)
 
 ### Documentation
-- **Markdown**: [pre-commit-markdown-hook.yaml](https://github.com/chrishayuk/vibe-coding-templates/blob/main/python/templates/cicd/hooks/pre-commit-markdown-hook.yaml)
-- **YAML**: [pre-commit-yaml-hook.yaml](https://github.com/chrishayuk/vibe-coding-templates/blob/main/python/templates/cicd/hooks/pre-commit-yaml-hook.yaml)
+- **Markdown**: [pre-commit-markdown-hook.yaml](https://github.com/jelcke/vibe-coding-templates/blob/main/python/templates/cicd/hooks/pre-commit-markdown-hook.yaml)
+- **YAML**: [pre-commit-yaml-hook.yaml](https://github.com/jelcke/vibe-coding-templates/blob/main/python/templates/cicd/hooks/pre-commit-yaml-hook.yaml)
 
 ## Setting Up Hooks
 
@@ -277,10 +277,10 @@ ci:
 
 ## Template Information
 
-- **Source**: [vibe-coding-templates](https://github.com/chrishayuk/vibe-coding-templates/blob/main/python/docs/cicd/PRE_COMMIT.md)
+- **Source**: [vibe-coding-templates](https://github.com/jelcke/vibe-coding-templates/blob/main/python/docs/cicd/PRE_COMMIT.md)
 - **Version**: 1.0.0
 - **Date**: 2025-08-19
-- **Author**: chrishayuk
+- **Author**: jelcke
 - **Template**: Generic Python Project
 
 ### Customization Notes

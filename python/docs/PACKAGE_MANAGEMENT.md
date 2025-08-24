@@ -337,8 +337,8 @@ uv sync --workspace
 
 ## Template Metadata
 
-- **Repository**: [vibe-coding-templates](https://github.com/chrishayuk/vibe-coding-templates)
+- **Repository**: [vibe-coding-templates](https://github.com/jelcke/vibe-coding-templates)
 - **Path**: python/docs/PACKAGE_MANAGEMENT.md
 - **Version**: 1.0.0
 - **Date**: 2025-01-19
-- **Author**: chrishayuk
+- **Author**: jelcke
