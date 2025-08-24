@@ -2,7 +2,7 @@
 
 Comprehensive project templates optimized for AI agents to bootstrap professional projects with modern tooling, CI/CD, and best practices.
 
-Create a python hello world app using https://github.com/jelcke/vibe-coding-templates/CLAUDE.md as a guide
+Create a python hello world app using Create a python hello world app use https://github.com/jelcke/vibe-coding-templates/blob/main/CLAUDE.md as a guide as a guide
 
 
 ## 🤖 AI Agent Optimized
